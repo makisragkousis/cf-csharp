@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"Fibonacci(10) = {FibonacciRecursive(0)}");
+            Console.WriteLine($"Fibonacci(10) = {FibonacciRecursive(10)}");
         }
 
         /// <summary>
