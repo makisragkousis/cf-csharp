@@ -8,6 +8,7 @@
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="IfUseCases/IfUseCases.csproj" Id="d8aa5d7f-427d-4080-8f39-50087a0b2227" />
   <Project Path="KilometersApp/KilometersApp.csproj" />
+  <Project Path="LinqArrays/LinqArrays.csproj" Id="eba0bc2a-92a6-4814-9aee-ff42f62509e3" />
   <Project Path="NumberRead/NumberRead.csproj" />
   <Project Path="PositivesCount/PositivesCount.csproj" Id="1a5428cb-f98c-4630-8c57-7f84ed3c3845" />
   <Project Path="PowerApp/PowerApp.csproj" Id="117ea20e-9073-4f8f-93dd-888b2c5238b1" />
