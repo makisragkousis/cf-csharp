@@ -1,7 +1,9 @@
 <Solution>
+  <Project Path="AbstractApp/AbstractApp.csproj" Id="8a847094-8cdb-407d-be8f-3d6e84254c9c" />
   <Project Path="AccountApp/AccountApp.csproj" Id="5c15911e-6298-4dec-b19d-aeab65ef75cc" />
   <Project Path="ArraysApp/ArraysApp.csproj" Id="07884714-704b-4cbe-bec6-2daaebbf0978" />
   <Project Path="CitiesForApp/CitiesForApp.csproj" Id="f6c901f9-f8ab-4e12-88a5-e8fac4780c95" />
+  <Project Path="CollectionsApp/CollectionsApp.csproj" Id="9c02a7df-0bb3-4fcf-99e0-9648582e236f" />
   <Project Path="DataTypes/DataTypes.csproj" />
   <Project Path="DoWhileApp/DoWhileApp.csproj" Id="9dbf3535-baa0-4474-900f-44ce20d5c32f" />
   <Project Path="ExtractCapitals/ExtractCapitals.csproj" Id="2479a353-b4a8-43b9-bf8a-38a232955524" />
@@ -9,6 +11,7 @@
   <Project Path="FormatExceptionApp/FormatExceptionApp.csproj" Id="a9b878e4-cd47-45da-96a4-4ef3219583fe" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="IfUseCases/IfUseCases.csproj" Id="d8aa5d7f-427d-4080-8f39-50087a0b2227" />
+  <Project Path="InterfacesApp/InterfacesApp.csproj" Id="264c0c89-afed-493c-8535-28553a89cc9c" />
   <Project Path="KilometersApp/KilometersApp.csproj" />
   <Project Path="LinqArrays/LinqArrays.csproj" Id="eba0bc2a-92a6-4814-9aee-ff42f62509e3" />
   <Project Path="NullableStringApp/NullableStringApp.csproj" Id="025ce16d-5bd8-451c-bdf0-0e3fd9cff168" />
